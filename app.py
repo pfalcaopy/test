@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 
 # Configurações do seu GitHub
-GITHUB_TOKEN = "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                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "
+GITHUB_TOKEN = "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"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "
 REPO_OWNER = "pfalcaopy"
 REPO_NAME = "test"
 BRANCH = "main"  # ou 'master'
